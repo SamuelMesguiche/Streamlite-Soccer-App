@@ -16,6 +16,7 @@ For Local Setup without Docker:
 Copy the code:
 
 git clone https://github.com/your-username/Streamlite-Soccer-App.git
+
 cd app
 
 - Install Python dependencies: 
